@@ -11,6 +11,8 @@ public class BlobTestApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		
+		System.out.println(" noOfContacts >>  ");
 	}
 
 }
