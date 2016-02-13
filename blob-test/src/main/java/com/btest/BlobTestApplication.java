@@ -8,5 +8,6 @@ public class BlobTestApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BlobTestApplication.class, args);
+		
 	}
 }
